@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="/local-storage/style.css">
+</head>
+<body>
+    <div>
+        <h1> please Fill in the name of the students and her grades </h1>
+    </div>
+    <div class="inputemStyle">
+        <input class="nameStyle" type="text" placeholder="Student name" id="name">
+        <input class="gradeStyle" type="text" placeholder="Student grade" id="grade">
+    </div>
+    <div class="buttonStyle"> 
+        <button onclick="mangment()" class="buttonnStyle"> click me</button>
+    </div>
+    <div>
+        <table class="tableStyle">
+            <thead>
+                <tr class="TrOfInputem">
+                    <td class="studentName">Students Name</td>
+                    <td class="studentGrade">Students grades</td>
+                </tr>
+            </thead>
+            <tbody id="tbodyy">
+
+            </tbody>
+
+        </table>
+    </div>
+    <label id="Id-counter-label"></label>
+    <label id="Id-avg-label"></label>
+            
+    <script src="/local-storage/script.js"></script>
+</body>
+</html>

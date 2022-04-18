@@ -1,0 +1,129 @@
+
+body{
+    background-color: #cce7e8;
+}
+.tableStyle{
+    margin-top: 50px;
+
+font-size: 26px;
+background-color: #69bdd2;
+border-radius: 15px;
+
+ box-shadow: 1px 1px 5px 5px #80391e;
+ 
+}
+
+.studentGrade{
+padding-left: 270px;
+font-weight: bolder;
+}
+.studentName{
+    font-weight: bolder; 
+}
+h1{
+ font-size: 26px;
+  
+ width: 600px;
+ box-shadow: 1px 1px 5px 5px #80391e;
+ border-radius: 15px;
+ background-color: #69bdd2;
+ height: 50px;
+ text-align: center;
+}
+.inputemStyle{
+    margin-left: 80px;
+    margin-top: 70px;
+}
+.buttonStyle{
+    margin-left: 220px;
+    margin-top: 30px;
+}
+.nameStyle{
+    border-radius: 15px;
+    height: 30px;
+    border: solid;
+    border-color: #80391e;
+    
+}
+.gradeStyle{
+    border-radius: 15px;
+    height: 30px;
+    border: solid;
+    border-color: #80391e;
+}
+.buttonnStyle{
+ background-color:  #69bdd2;  
+ width: 80px;
+ height: 30px;
+ border-radius: 10px;
+    box-shadow: 1px 1px 3px 3px #80391e;
+    font-weight: bolder;
+}
+.countLabel{
+    width: 200px;
+    height: 200px;
+    background-color: #69bdd2 ;
+    text-align: center;
+    padding-top: 30px;
+    border-radius: 20px;
+    box-shadow: 2px 2px 5px 5px #80391e;
+   position: absolute;
+   margin-left: 800px;
+   top: 20px;
+}
+.avgLabel{
+    width: 200px;
+    height: 200px;
+    background-color: #69bdd2 ;
+    text-align: center;
+    padding-top: 30px;
+    border-radius: 20px;
+    box-shadow: 2px 2px 5px 5px #80391e;
+   position: absolute;
+   margin-left: 800px;
+   bottom: 20px;
+}
+.LabelGstyle{
+    margin-left:350px;
+    margin-top: 30px;
+    color: #80391e;
+    font-weight: bolder;
+}
+.LabelNstyle{
+    color: #80391e;
+    font-weight: bolder;
+    padding-bottom: 20px;
+}
+
+
+
+.div1{
+    width: 200px;
+    height: 200px;
+    background-color: #69bdd2 ;
+    text-align: center;
+    padding-top: 30px;
+    border-radius: 20px;
+    box-shadow: 2px 2px 5px 5px #80391e;
+   position: absolute;
+   margin-left: 800px;
+   top: 20px;
+}
+.div2{
+    width: 200px;
+    height: 200px;
+    background-color: #69bdd2 ;
+    text-align: center;
+    padding-top: 30px;
+    border-radius: 20px;
+    box-shadow: 2px 2px 5px 5px #80391e;
+   position: absolute;
+   margin-left: 800px;
+   bottom: 20px;
+}
+.h3{
+    margin-top: 60px;
+}
+.h33{
+    margin-top: 60px;
+}
